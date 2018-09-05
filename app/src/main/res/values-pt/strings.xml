@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Rádio FB</string>
+    <string name="action_settings">Sobre</string>
+
+    <!--SOBRE-->
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="so_nomeapp">Rádio Online Fonte de Benção</string>
+    <string name="so_versao">Versão: 1.0</string>
+    <string name="so_desenvolvedor">Desenvolvedor Principal:\nAlvesDevTec - André Alves</string>
+    <string name="so_data">Ano: 2018</string>
+    <string name="so_contato">Contato: andrealves591.aa@gmail.com</string>
+    <!--MAIN ACTIVITY-->
+    <string name="ma_tv_24h">24 horas na internet!</string>
+    <string name="ma_bt_pedido">Pedido de Oração</string>
+    <!--PEDIDO DE ORACÇÃO-->
+    <string name="pedido">Pedido de Oração</string>
+    <string name="ap_et_nome">Nome</string>
+    <string name="ap_et_telefone">Telefone</string>
+    <string name="ap_et_email">E-mail</string>
+    <string name="ap_et_mensagem">Mensagem</string>
+    <string name="ap_bt_enviar">Enviar</string>
+    <!--SPLASH SCREEN-->
+    <string name="ss_inicio">Sintonizando...</string>
+    <string name="conexao">Sem conexão com a Internet!</string>
+    <!--SITE-->
+    <string name="site">  </string>
+    <!--MENU DRAWER-->
+    <string name="nomeigreja">Igreja Evangélica Fonte de Benção</string>
+    <string name="foneigreja">"Telefone: (51) 3128-3808"</string>
+    <string name="inicio">INÍCIO</string>
+    <string name="pedidomenu">PEDIDO DE ORAÇÃO</string>
+    <string name="acompanhe">ACOMPANHE-NOS</string>
+    <string name="sitemenu">NOSSO SITE</string>
+    <string name="sobremenu">SOBRE</string>
+</resources>

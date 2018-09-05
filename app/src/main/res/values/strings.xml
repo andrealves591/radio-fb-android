@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FB Radio</string>
+    <string name="action_settings">About</string>
+
+    <!--SOBRE-->
+    <string name="title_activity_sobre">About</string>
+    <string name="so_nomeapp">Online Radio Source of Blessing</string>
+    <string name="so_versao">Version: 1.0</string>
+    <string name="so_desenvolvedor">Main Developer:\nAlvesDevTec - André Alves</string>
+    <string name="so_data">Year: 2018</string>
+    <string name="so_contato">Contact: andrealves591.aa@gmail.com</string>
+    <!--MAIN ACTIVITY-->
+    <string name="ma_tv_24h">24 hours on the internet!</string>
+    <string name="ma_bt_pedido">Prayer Request</string>
+    <!--PEDIDO DE ORACÇÃO-->
+    <string name="pedido">Prayer Request</string>
+    <string name="ap_et_nome">Name</string>
+    <string name="ap_et_telefone">Phone</string>
+    <string name="ap_et_email">Email</string>
+    <string name="ap_et_mensagem">Message</string>
+    <string name="ap_bt_enviar">Send</string>
+    <!--SPLASH SCREEN-->
+    <string name="ss_inicio">Tuning in...</string>
+    <string name="conexao">No Internet connection!</string>
+    <!--SITE-->
+    <string name="site">  </string>
+    <!--MENU DRAWER-->
+    <string name="nomeigreja">Evangelical Church Source of Blessing</string>
+    <string name="foneigreja">"Phone: (51) 3128-3808"</string>
+    <string name="inicio">HOME</string>
+    <string name="pedidomenu">PRAYER REQUEST</string>
+    <string name="acompanhe">FOLLOW US</string>
+    <string name="sitemenu">OUR WEBSITE</string>
+    <string name="sobremenu">ABOUT</string>
+
+
+</resources>
